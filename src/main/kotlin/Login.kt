@@ -11,7 +11,7 @@ import utils.parseJson
 //val qqId = 3531714390L //爱酱
 //val password = "shiro990805"
 
-const val jsonPath = "src/main/resources/params.json"
+const val jsonPath = "example.json"
 var map = parseJson(jsonPath)
 
 suspend fun main(args: Array<String>) {
