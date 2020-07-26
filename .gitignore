@@ -1,0 +1,16 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+.gitignore
+.gradle/6.1/vcsMetadata-1/
+build/classes/java/
+build/generated/
+build/kotlin/sessions/
+build/tmp/
+src/test/
+src/main/resources/params.json
