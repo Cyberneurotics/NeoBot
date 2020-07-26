@@ -29,7 +29,7 @@ src+[图片]
 输入 Q问题 A答案 下次输入问题时机器人会自动回复答案
 
 ## bullshit
-输入 小作文 主题 字数 可以让机器人写一段[bs](ttps://github.com/menzi11/BullshitGenerator)生成的狗屁不通的小作文
+输入 小作文 主题 字数 可以让机器人写一段[生成器](https://github.com/menzi11/BullshitGenerator)生成的狗屁不通的小作文
 
 # 安装
 1. 安装JDK8+, git clone
