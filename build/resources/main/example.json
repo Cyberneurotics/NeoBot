@@ -1,0 +1,40 @@
+{
+  "qqId": 111111,
+  "password": "111111",
+
+  "proxy": {
+    "on": true,
+    "host": "127.0.0.1",
+    "port": 1080
+  },
+
+  "getSrc": {
+    "on": true
+  },
+
+  "sendPic": {
+    "on": true,
+    "recall": {
+      "on": true,
+      "millis": 120000
+    }
+  },
+
+  "repeat": {
+    "second": true,
+    "secondRatio": 0.3,
+    "third": true,
+    "thirdRatio": 0.7
+  },
+  "replyAt": {
+    "on": true
+  },
+  "qa": {
+    "on": true
+  },
+  "bullshit": {
+    "on": true,
+    "defaultWords": 100
+  }
+
+}
